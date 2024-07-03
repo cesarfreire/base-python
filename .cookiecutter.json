@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/home/cesarfreire/python",
+  "_repo_dir": "/home/cesarfreire/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Cesar Freire",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "iceesar@live.com",
+  "friendly_name": "Base Python",
+  "github_user": "cesarfreire",
+  "license": "MIT",
+  "package_name": "base_python",
+  "project_name": "base-python",
+  "version": "0.0.1"
+}
